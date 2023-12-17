@@ -1,0 +1,8 @@
+a. Eq No. 1 ->  | The Equation is Valid. The Answer Of The Eq. = 1 
+
+b. Eq No. 2 ->  | The Equation is InValid. The Answer Of The Eq. = 1 
+
+c. Eq No. 3 ->  | The Equation is InValid. The Answer Of The Eq. = 1 
+
+d. Eq No. 4 ->  | The Equation is Valid. The Answer Of The Eq. = 5 
+
